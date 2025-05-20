@@ -1,0 +1,100 @@
+{
+    "version": "5.6.0",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "traffic sign",
+            "points": [
+                [
+                    243.57142857142864,
+                    320.3571428571429
+                ],
+                [
+                    287.1428571428572,
+                    381.0714285714286
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "traffic sign",
+            "points": [
+                [
+                    273.57142857142867,
+                    305.3571428571429
+                ],
+                [
+                    334.28571428571433,
+                    360.3571428571429
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "traffic sign",
+            "points": [
+                [
+                    357.1428571428572,
+                    344.64285714285717
+                ],
+                [
+                    394.28571428571433,
+                    388.2142857142857
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "truck",
+            "points": [
+                [
+                    548.5714285714287,
+                    314.64285714285717
+                ],
+                [
+                    720.0,
+                    537.5
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "car",
+            "points": [
+                [
+                    659.2857142857143,
+                    302.5
+                ],
+                [
+                    1236.4285714285713,
+                    698.9285714285713
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "Sequence_Night_9_frame_13710.jpg",
+    "imageData": null,
+    "imageHeight": 720,
+    "imageWidth": 1280
+}

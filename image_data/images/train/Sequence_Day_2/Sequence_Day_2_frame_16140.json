@@ -1,0 +1,64 @@
+{
+    "version": "5.5.0",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "truck",
+            "points": [
+                [
+                    612.5626220703125,
+                    318.8813171386719
+                ],
+                [
+                    724.5068359375,
+                    445.6812438964844
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "car",
+            "points": [
+                [
+                    555.677490234375,
+                    381.47979736328125
+                ],
+                [
+                    595.87744140625,
+                    420.84320068359375
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "motorcycle",
+            "points": [
+                [
+                    495.6818181818182,
+                    379.31818181818187
+                ],
+                [
+                    522.9545454545455,
+                    411.1363636363636
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "Sequence_Day_2_frame_16140.jpg",
+    "imageData": null,
+    "imageHeight": 720,
+    "imageWidth": 1280
+}

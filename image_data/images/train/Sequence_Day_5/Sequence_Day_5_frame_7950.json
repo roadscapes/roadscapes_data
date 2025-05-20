@@ -1,0 +1,82 @@
+{
+    "version": "5.5.0",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "truck",
+            "points": [
+                [
+                    603.1104736328125,
+                    355.9203186035156
+                ],
+                [
+                    624.0491943359375,
+                    390.0204772949219
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "traffic sign",
+            "points": [
+                [
+                    466.8233947753906,
+                    360.007568359375
+                ],
+                [
+                    494.8000793457031,
+                    378.2745361328125
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "motorcycle",
+            "points": [
+                [
+                    556.657958984375,
+                    385.0808410644531
+                ],
+                [
+                    571.466796875,
+                    415.2082824707031
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "traffic sign",
+            "points": [
+                [
+                    368.70370370370375,
+                    368.33333333333337
+                ],
+                [
+                    322.40740740740745,
+                    335.0
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "Sequence_Day_5_frame_7950.jpg",
+    "imageData": null,
+    "imageHeight": 720,
+    "imageWidth": 1280
+}

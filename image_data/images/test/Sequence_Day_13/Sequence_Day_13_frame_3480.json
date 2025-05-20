@@ -1,0 +1,82 @@
+{
+    "version": "5.6.0",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "car",
+            "points": [
+                [
+                    262.97003173828125,
+                    338.5038299560547
+                ],
+                [
+                    483.1367797851562,
+                    496.8009796142578
+                ]
+            ],
+            "group_id": null,
+            "description": null,
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "truck",
+            "points": [
+                [
+                    565.9757080078125,
+                    355.08923339843744
+                ],
+                [
+                    608.646240234375,
+                    397.79077148437494
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "truck",
+            "points": [
+                [
+                    965.155029296875,
+                    123.23394775390622
+                ],
+                [
+                    1278.53955078125,
+                    423.2637939453125
+                ]
+            ],
+            "group_id": null,
+            "description": null,
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "motorcycle",
+            "points": [
+                [
+                    664.9249877929688,
+                    350.46655273437506
+                ],
+                [
+                    677.6281127929688,
+                    377.77154541015625
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "Sequence_Day_13_frame_3480.jpg",
+    "imageData": null,
+    "imageHeight": 720,
+    "imageWidth": 1280
+}

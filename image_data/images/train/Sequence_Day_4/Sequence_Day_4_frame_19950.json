@@ -1,0 +1,118 @@
+{
+  "version": "5.4.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "car",
+      "points": [
+        [
+          567.326171875,
+          319.52935791015625
+        ],
+        [
+          765.1085205078125,
+          491.64556884765625
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "car",
+      "points": [
+        [
+          0.04532623291015625,
+          351.5228271484375
+        ],
+        [
+          47.08454132080078,
+          411.8800048828125
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "motorcycle",
+      "points": [
+        [
+          443.2664489746094,
+          345.5267639160156
+        ],
+        [
+          464.6813659667969,
+          388.9062805175781
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "truck",
+      "points": [
+        [
+          502.1274719238281,
+          333.06298828125
+        ],
+        [
+          530.58544921875,
+          370.221435546875
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "truck",
+      "points": [
+        [
+          419.234619140625,
+          330.300048828125
+        ],
+        [
+          453.6048583984375,
+          368.577392578125
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          202.9793701171875,
+          357.6972351074219
+        ],
+        [
+          222.654052734375,
+          400.9825134277344
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "Sequence_Day_4_frame_19950.jpg",
+  "imageData": null,
+  "imageHeight": 720,
+  "imageWidth": 1280
+}

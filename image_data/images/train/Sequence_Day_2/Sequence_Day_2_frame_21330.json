@@ -1,0 +1,82 @@
+{
+    "version": "5.5.0",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "car",
+            "points": [
+                [
+                    370.82550048828125,
+                    411.685546875
+                ],
+                [
+                    552.45556640625,
+                    563.1587524414062
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "car",
+            "points": [
+                [
+                    615.0523681640625,
+                    418.255615234375
+                ],
+                [
+                    645.90478515625,
+                    444.3284912109375
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "traffic sign",
+            "points": [
+                [
+                    816.1363636363636,
+                    315.68181818181813
+                ],
+                [
+                    854.7727272727273,
+                    374.77272727272725
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "car",
+            "points": [
+                [
+                    1093.409090909091,
+                    463.4090909090909
+                ],
+                [
+                    984.3181818181819,
+                    408.8636363636364
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "Sequence_Day_2_frame_21330.jpg",
+    "imageData": null,
+    "imageHeight": 720,
+    "imageWidth": 1280
+}

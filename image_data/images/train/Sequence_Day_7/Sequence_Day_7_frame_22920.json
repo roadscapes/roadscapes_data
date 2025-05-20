@@ -1,0 +1,100 @@
+{
+    "version": "5.4.1",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "traffic light",
+            "points": [
+                [
+                    25.2716064453125,
+                    0.0
+                ],
+                [
+                    70.9899673461914,
+                    154.91075134277344
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "car",
+            "points": [
+                [
+                    266.36090087890625,
+                    277.61297607421875
+                ],
+                [
+                    731.5432739257812,
+                    608.9481201171875
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "car",
+            "points": [
+                [
+                    801.9749145507812,
+                    228.1585693359375
+                ],
+                [
+                    1251.108154296875,
+                    541.137451171875
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "traffic sign",
+            "points": [
+                [
+                    455.02947998046875,
+                    208.66030883789062
+                ],
+                [
+                    511.97027587890625,
+                    236.59506225585938
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "person",
+            "points": [
+                [
+                    674.3326416015625,
+                    293.5037841796875
+                ],
+                [
+                    714.4654541015625,
+                    346.1558837890625
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "Sequence_Day_7_frame_22920.jpg",
+    "imageData": null,
+    "imageHeight": 720,
+    "imageWidth": 1280
+}

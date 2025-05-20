@@ -1,0 +1,136 @@
+{
+    "version": "5.6.0",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "car",
+            "points": [
+                [
+                    1005.8684997558594,
+                    385.5325012207031
+                ],
+                [
+                    1135.9732971191406,
+                    457.4120178222656
+                ]
+            ],
+            "group_id": null,
+            "description": null,
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "truck",
+            "points": [
+                [
+                    496.69140625,
+                    355.48822021484375
+                ],
+                [
+                    675.18505859375,
+                    452.35382080078125
+                ]
+            ],
+            "group_id": null,
+            "description": null,
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "motorcycle",
+            "points": [
+                [
+                    292.6923076923077,
+                    390.3846153846154
+                ],
+                [
+                    320.38461538461536,
+                    423.46153846153845
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "person",
+            "points": [
+                [
+                    309.61538461538464,
+                    363.46153846153845
+                ],
+                [
+                    328.84615384615387,
+                    419.61538461538464
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "headlight",
+            "points": [
+                [
+                    787.3076923076923,
+                    393.46153846153845
+                ],
+                [
+                    825.7692307692307,
+                    428.0769230769231
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "headlight",
+            "points": [
+                [
+                    849.6153846153845,
+                    401.1538461538462
+                ],
+                [
+                    882.6923076923076,
+                    433.46153846153845
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "headlight",
+            "points": [
+                [
+                    905.7692307692307,
+                    411.1538461538462
+                ],
+                [
+                    928.076923076923,
+                    438.84615384615387
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "Sequence_Night_8_frame_3780.jpg",
+    "imageData": null,
+    "imageHeight": 720,
+    "imageWidth": 1280
+}

@@ -1,0 +1,64 @@
+{
+    "version": "5.6.0",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "traffic sign",
+            "points": [
+                [
+                    379.765380859375,
+                    229.75241088867188
+                ],
+                [
+                    414.599609375,
+                    263.1427917480469
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "truck",
+            "points": [
+                [
+                    656.3042018724524,
+                    250.40744770437044
+                ],
+                [
+                    733.8405797101449,
+                    314.71014492753625
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "truck",
+            "points": [
+                [
+                    1047.666520713032,
+                    116.34947668987775
+                ],
+                [
+                    1280.0,
+                    348.768115942029
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "Sequence_Night_4_frame_21870.jpg",
+    "imageData": null,
+    "imageHeight": 720,
+    "imageWidth": 1280
+}

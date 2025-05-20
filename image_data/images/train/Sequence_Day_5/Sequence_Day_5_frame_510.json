@@ -1,0 +1,208 @@
+{
+    "version": "5.5.0",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "bus",
+            "points": [
+                [
+                    0.0300445556640625,
+                    0.0
+                ],
+                [
+                    250.0916748046875,
+                    640.1854248046875
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "truck",
+            "points": [
+                [
+                    588.56591796875,
+                    259.39654541015625
+                ],
+                [
+                    745.798095703125,
+                    498.61041259765625
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "bus",
+            "points": [
+                [
+                    210.47998046875,
+                    246.16119384765625
+                ],
+                [
+                    447.81842041015625,
+                    446.43524169921875
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "car",
+            "points": [
+                [
+                    239.34303283691406,
+                    328.74725341796875
+                ],
+                [
+                    541.889404296875,
+                    557.2836303710938
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "car",
+            "points": [
+                [
+                    618.9146728515625,
+                    313.674072265625
+                ],
+                [
+                    967.8665771484375,
+                    605.9855346679688
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "motorcycle",
+            "points": [
+                [
+                    515.6041259765625,
+                    368.1890563964844
+                ],
+                [
+                    595.79541015625,
+                    461.6632995605469
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "person",
+            "points": [
+                [
+                    1049.2711181640625,
+                    349.4855651855469
+                ],
+                [
+                    1070.4539794921875,
+                    396.4448547363281
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "rider",
+            "points": [
+                [
+                    521.7440185546875,
+                    349.27227783203125
+                ],
+                [
+                    578.8770751953125,
+                    435.83929443359375
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "truck",
+            "points": [
+                [
+                    898.41064453125,
+                    313.6795349121094
+                ],
+                [
+                    1032.08642578125,
+                    394.4043884277344
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "traffic light",
+            "points": [
+                [
+                    676.1111111111111,
+                    229.44444444444443
+                ],
+                [
+                    718.7037037037037,
+                    247.96296296296296
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "traffic light",
+            "points": [
+                [
+                    885.3703703703703,
+                    107.22222222222223
+                ],
+                [
+                    927.9629629629629,
+                    244.25925925925927
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "Sequence_Day_5_frame_510.jpg",
+    "imageData": null,
+    "imageHeight": 720,
+    "imageWidth": 1280
+}

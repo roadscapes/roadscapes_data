@@ -1,0 +1,100 @@
+{
+    "version": "5.6.0",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "truck",
+            "points": [
+                [
+                    596.4935302734375,
+                    202.61798095703125
+                ],
+                [
+                    739.4366455078125,
+                    370.70501708984375
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "person",
+            "points": [
+                [
+                    472.56512451171875,
+                    294.1575927734375
+                ],
+                [
+                    498.84615384615387,
+                    331.92307692307696
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "motorcycle",
+            "points": [
+                [
+                    467.30769230769226,
+                    326.53846153846155
+                ],
+                [
+                    496.02077542818506,
+                    363.0591477614183
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "truck",
+            "points": [
+                [
+                    985.4992065429688,
+                    0.91265869140625
+                ],
+                [
+                    1279.859619140625,
+                    530.037353515625
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "traffic sign",
+            "points": [
+                [
+                    38.84615384615385,
+                    205.76923076923075
+                ],
+                [
+                    92.6923076923077,
+                    265.7692307692308
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "Sequence_Night_4_frame_8700.jpg",
+    "imageData": null,
+    "imageHeight": 720,
+    "imageWidth": 1280
+}

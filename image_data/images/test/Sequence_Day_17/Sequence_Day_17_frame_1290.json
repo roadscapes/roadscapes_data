@@ -1,0 +1,82 @@
+{
+    "version": "5.6.0",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "car",
+            "points": [
+                [
+                    504.90155029296875,
+                    432.58514404296875
+                ],
+                [
+                    648.6021118164062,
+                    565.9501342773438
+                ]
+            ],
+            "group_id": null,
+            "description": null,
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "person",
+            "points": [
+                [
+                    217.70449829101562,
+                    400.47084045410156
+                ],
+                [
+                    318.4546813964844,
+                    623.6906585693359
+                ]
+            ],
+            "group_id": null,
+            "description": null,
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "rickshaw",
+            "points": [
+                [
+                    814.0494384765624,
+                    355.32377624511713
+                ],
+                [
+                    1002.8046875,
+                    583.9796905517578
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "car",
+            "points": [
+                [
+                    641.1416625976562,
+                    446.28579711914057
+                ],
+                [
+                    680.3975219726561,
+                    480.1991271972656
+                ]
+            ],
+            "group_id": null,
+            "description": null,
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "Sequence_Day_17_frame_1290.jpg",
+    "imageData": null,
+    "imageHeight": 720,
+    "imageWidth": 1280
+}

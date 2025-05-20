@@ -1,0 +1,100 @@
+{
+    "version": "5.6.0",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "motorcycle",
+            "points": [
+                [
+                    763.4329833984375,
+                    351.5498352050781
+                ],
+                [
+                    801.9764404296875,
+                    410.2673645019531
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "car",
+            "points": [
+                [
+                    853.4785766601562,
+                    342.39166259765625
+                ],
+                [
+                    884.3710327148438,
+                    368.86175537109375
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "rider",
+            "points": [
+                [
+                    764.7853393554688,
+                    333.2356262207031
+                ],
+                [
+                    800.6016235351562,
+                    391.4637145996094
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "truck",
+            "points": [
+                [
+                    810.96728515625,
+                    308.1357727050781
+                ],
+                [
+                    861.85009765625,
+                    368.9683532714844
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "truck",
+            "points": [
+                [
+                    670.6140350877192,
+                    315.2631578947368
+                ],
+                [
+                    754.875,
+                    406.08587646484375
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "Sequence_Day_1_frame_3930.jpg",
+    "imageData": null,
+    "imageHeight": 720,
+    "imageWidth": 1280
+}

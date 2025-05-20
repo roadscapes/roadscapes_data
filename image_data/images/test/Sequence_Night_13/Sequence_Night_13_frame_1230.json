@@ -1,0 +1,82 @@
+{
+    "version": "5.6.0",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "car",
+            "points": [
+                [
+                    463.04193115234375,
+                    403.86541748046875
+                ],
+                [
+                    523.7909545898438,
+                    452.8927612304688
+                ]
+            ],
+            "group_id": null,
+            "description": null,
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "car",
+            "points": [
+                [
+                    550.7186842698316,
+                    404.1751333383413
+                ],
+                [
+                    605.2634840745192,
+                    443.4703603891226
+                ]
+            ],
+            "group_id": null,
+            "description": null,
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "bus",
+            "points": [
+                [
+                    644.9999999999999,
+                    377.3076923076923
+                ],
+                [
+                    690.3846153846154,
+                    428.0769230769231
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "truck",
+            "points": [
+                [
+                    590.3846153846154,
+                    386.53846153846155
+                ],
+                [
+                    621.1538461538461,
+                    421.9230769230769
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "Sequence_Night_13_frame_1230.jpg",
+    "imageData": null,
+    "imageHeight": 720,
+    "imageWidth": 1280
+}

@@ -1,0 +1,64 @@
+{
+    "version": "5.6.0",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "rickshaw",
+            "points": [
+                [
+                    1167.12744140625,
+                    291.5259246826172
+                ],
+                [
+                    1280.0,
+                    526.2874298095703
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "bus",
+            "points": [
+                [
+                    658.6582641601562,
+                    262.55816650390625
+                ],
+                [
+                    842.5508422851562,
+                    432.09088134765625
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "car",
+            "points": [
+                [
+                    551.09033203125,
+                    342.99951171875
+                ],
+                [
+                    689.1220703125,
+                    473.03552246093756
+                ]
+            ],
+            "group_id": null,
+            "description": null,
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "Sequence_Day_18_frame_10650.jpg",
+    "imageData": null,
+    "imageHeight": 720,
+    "imageWidth": 1280
+}

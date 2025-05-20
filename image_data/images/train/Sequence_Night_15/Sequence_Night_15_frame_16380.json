@@ -1,0 +1,82 @@
+{
+    "version": "5.4.1",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "truck",
+            "points": [
+                [
+                    1087.1907958984375,
+                    345.90704345703125
+                ],
+                [
+                    1279.9613037109375,
+                    506.29046630859375
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "car",
+            "points": [
+                [
+                    1010.7178955078125,
+                    396.9691162109375
+                ],
+                [
+                    1096.3533935546875,
+                    476.31121826171875
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "headlight",
+            "points": [
+                [
+                    817.9069767441861,
+                    383.2558139534884
+                ],
+                [
+                    874.4961240310078,
+                    428.9922480620155
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "car",
+            "points": [
+                [
+                    472.1705426356589,
+                    386.35658914728685
+                ],
+                [
+                    527.2093023255815,
+                    450.69767441860466
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "Sequence_Night_15_frame_16380.jpg",
+    "imageData": null,
+    "imageHeight": 720,
+    "imageWidth": 1280
+}

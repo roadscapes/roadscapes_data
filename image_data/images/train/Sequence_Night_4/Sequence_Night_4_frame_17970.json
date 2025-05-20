@@ -1,0 +1,46 @@
+{
+    "version": "5.6.0",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "traffic sign",
+            "points": [
+                [
+                    394.4775085449219,
+                    205.37274169921875
+                ],
+                [
+                    430.2949523925781,
+                    241.15869140625
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "headlight",
+            "points": [
+                [
+                    855.7692307692307,
+                    255.76923076923075
+                ],
+                [
+                    902.6923076923076,
+                    286.53846153846155
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "Sequence_Night_4_frame_17970.jpg",
+    "imageData": null,
+    "imageHeight": 720,
+    "imageWidth": 1280
+}

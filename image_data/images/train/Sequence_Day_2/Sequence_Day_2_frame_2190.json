@@ -1,0 +1,82 @@
+{
+    "version": "5.6.0",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "truck",
+            "points": [
+                [
+                    56.1265869140625,
+                    188.771240234375
+                ],
+                [
+                    469.11224365234375,
+                    483.52850341796875
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "truck",
+            "points": [
+                [
+                    692.5690307617188,
+                    343.6651306152344
+                ],
+                [
+                    731.9898071289062,
+                    402.7002868652344
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "traffic sign",
+            "points": [
+                [
+                    821.7829457364342,
+                    291.00775193798455
+                ],
+                [
+                    866.7441860465117,
+                    340.6201550387597
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "motorcycle",
+            "points": [
+                [
+                    648.920901932713,
+                    379.2287043664997
+                ],
+                [
+                    661.6535433070866,
+                    405.2755905511811
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "Sequence_Day_2_frame_2190.jpg",
+    "imageData": null,
+    "imageHeight": 720,
+    "imageWidth": 1280
+}

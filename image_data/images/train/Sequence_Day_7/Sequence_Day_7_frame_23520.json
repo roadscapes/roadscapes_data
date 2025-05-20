@@ -1,0 +1,136 @@
+{
+    "version": "5.4.1",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "traffic light",
+            "points": [
+                [
+                    23.3065185546875,
+                    0.0
+                ],
+                [
+                    70.2529296875,
+                    157.60174560546875
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "car",
+            "points": [
+                [
+                    266.40423583984375,
+                    278.98638916015625
+                ],
+                [
+                    730.0484008789062,
+                    610.0543212890625
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "car",
+            "points": [
+                [
+                    799.6725463867188,
+                    229.55274963378906
+                ],
+                [
+                    1248.965576171875,
+                    546.4454345703125
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "car",
+            "points": [
+                [
+                    47.67490768432617,
+                    324.04522705078125
+                ],
+                [
+                    139.7937774658203,
+                    368.63067626953125
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "traffic sign",
+            "points": [
+                [
+                    453.632568359375,
+                    210.37020874023438
+                ],
+                [
+                    510.6343994140625,
+                    239.5799560546875
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "person",
+            "points": [
+                [
+                    1208.74609375,
+                    248.8936767578125
+                ],
+                [
+                    1280.0,
+                    324.79400634765625
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "person",
+            "points": [
+                [
+                    675.4022216796875,
+                    294.985595703125
+                ],
+                [
+                    714.3529052734375,
+                    350.512451171875
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "Sequence_Day_7_frame_23520.jpg",
+    "imageData": null,
+    "imageHeight": 720,
+    "imageWidth": 1280
+}

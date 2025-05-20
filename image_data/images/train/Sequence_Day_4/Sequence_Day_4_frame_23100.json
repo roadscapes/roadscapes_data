@@ -1,0 +1,136 @@
+{
+  "version": "5.4.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "bus",
+      "points": [
+        [
+          0.10321044921875,
+          0.80902099609375
+        ],
+        [
+          214.67127990722656,
+          679.5263671875
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "truck",
+      "points": [
+        [
+          562.4334716796875,
+          283.02825927734375
+        ],
+        [
+          720.0672607421875,
+          527.2710571289062
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "bus",
+      "points": [
+        [
+          171.2635498046875,
+          266.36968994140625
+        ],
+        [
+          406.8572998046875,
+          485.5059814453125
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "car",
+      "points": [
+        [
+          209.6708984375,
+          355.11798095703125
+        ],
+        [
+          518.320556640625,
+          594.7000122070312
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "car",
+      "points": [
+        [
+          595.4949951171875,
+          336.80316162109375
+        ],
+        [
+          945.250732421875,
+          635.6614379882812
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "traffic light",
+      "points": [
+        [
+          863.001220703125,
+          136.27413940429688
+        ],
+        [
+          895.372802734375,
+          265.87713623046875
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "traffic sign",
+      "points": [
+        [
+          479.7366943359375,
+          357.181884765625
+        ],
+        [
+          497.4820556640625,
+          378.444580078125
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "Sequence_Day_4_frame_23100.jpg",
+  "imageData": null,
+  "imageHeight": 720,
+  "imageWidth": 1280
+}

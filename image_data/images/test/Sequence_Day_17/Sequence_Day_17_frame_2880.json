@@ -1,0 +1,100 @@
+{
+    "version": "5.6.0",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "rider",
+            "points": [
+                [
+                    638.65625,
+                    392.8768005371094
+                ],
+                [
+                    676.040283203125,
+                    473.8959655761718
+                ]
+            ],
+            "group_id": null,
+            "description": null,
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "motorcycle",
+            "points": [
+                [
+                    638.3075561523438,
+                    440.0405578613281
+                ],
+                [
+                    677.6111450195312,
+                    484.85842895507807
+                ]
+            ],
+            "group_id": null,
+            "description": null,
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "car",
+            "points": [
+                [
+                    739.6153846153845,
+                    398.84615384615387
+                ],
+                [
+                    788.076923076923,
+                    451.1538461538462
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "person",
+            "points": [
+                [
+                    832.6923076923076,
+                    403.46153846153845
+                ],
+                [
+                    858.076923076923,
+                    468.0769230769231
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "car",
+            "points": [
+                [
+                    692.6923076923076,
+                    409.61538461538464
+                ],
+                [
+                    732.6923076923076,
+                    436.53846153846155
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "Sequence_Day_17_frame_2880.jpg",
+    "imageData": null,
+    "imageHeight": 720,
+    "imageWidth": 1280
+}

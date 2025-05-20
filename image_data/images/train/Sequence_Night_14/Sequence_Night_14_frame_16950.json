@@ -1,0 +1,82 @@
+{
+    "version": "5.6.0",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "rider",
+            "points": [
+                [
+                    289.75048828125,
+                    358.51226806640625
+                ],
+                [
+                    377.759521484375,
+                    525.3356323242188
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "motorcycle",
+            "points": [
+                [
+                    278.30535888671875,
+                    431.2380676269531
+                ],
+                [
+                    379.93463134765625,
+                    566.89306640625
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "car",
+            "points": [
+                [
+                    1038.28564453125,
+                    277.41943359375
+                ],
+                [
+                    1280.0,
+                    698.7861328125
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "truck",
+            "points": [
+                [
+                    644.0767822265625,
+                    304.51068115234375
+                ],
+                [
+                    872.5753173828125,
+                    468.40814208984375
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "Sequence_Night_14_frame_16950.jpg",
+    "imageData": null,
+    "imageHeight": 720,
+    "imageWidth": 1280
+}

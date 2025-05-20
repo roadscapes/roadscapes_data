@@ -1,0 +1,100 @@
+{
+    "version": "5.4.1",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "car",
+            "points": [
+                [
+                    812.885498046875,
+                    362.45953369140625
+                ],
+                [
+                    940.5238037109375,
+                    463.272705078125
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "car",
+            "points": [
+                [
+                    370.2545166015625,
+                    393.5066223144531
+                ],
+                [
+                    473.468994140625,
+                    477.8952331542969
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "motorcycle",
+            "points": [
+                [
+                    720.73583984375,
+                    405.00567626953125
+                ],
+                [
+                    790.03955078125,
+                    469.95709228515625
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "person",
+            "points": [
+                [
+                    239.68490600585938,
+                    392.456298828125
+                ],
+                [
+                    282.9238586425781,
+                    477.352783203125
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "person",
+            "points": [
+                [
+                    274.84320068359375,
+                    417.2919921875
+                ],
+                [
+                    304.59918212890625,
+                    474.1094970703125
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "Sequence_Day_5_frame_5940.jpg",
+    "imageData": null,
+    "imageHeight": 720,
+    "imageWidth": 1280
+}

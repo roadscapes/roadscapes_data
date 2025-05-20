@@ -1,0 +1,100 @@
+{
+    "version": "5.6.0",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "car",
+            "points": [
+                [
+                    432.76727294921875,
+                    453.2598419189453
+                ],
+                [
+                    509.53625488281256,
+                    526.4099578857422
+                ]
+            ],
+            "group_id": null,
+            "description": null,
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "car",
+            "points": [
+                [
+                    510.34837341308594,
+                    449.3133544921875
+                ],
+                [
+                    572.5726470947266,
+                    494.8841552734375
+                ]
+            ],
+            "group_id": null,
+            "description": null,
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "car",
+            "points": [
+                [
+                    410.02709960937494,
+                    444.6445007324219
+                ],
+                [
+                    444.83917236328125,
+                    474.5475769042969
+                ]
+            ],
+            "group_id": null,
+            "description": null,
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "car",
+            "points": [
+                [
+                    356.6543273925781,
+                    447.0068359375
+                ],
+                [
+                    395.7171325683594,
+                    476.1599731445312
+                ]
+            ],
+            "group_id": null,
+            "description": null,
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "bus",
+            "points": [
+                [
+                    465.7692307692308,
+                    406.53846153846155
+                ],
+                [
+                    543.4615384615385,
+                    463.46153846153845
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "Sequence_Day_17_frame_1950.jpg",
+    "imageData": null,
+    "imageHeight": 720,
+    "imageWidth": 1280
+}

@@ -1,0 +1,100 @@
+{
+    "version": "5.6.0",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "rider",
+            "points": [
+                [
+                    455.1549072265625,
+                    376.18359375
+                ],
+                [
+                    484.80877685546875,
+                    432.05084228515625
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "bus",
+            "points": [
+                [
+                    578.4259033203125,
+                    334.25323486328125
+                ],
+                [
+                    623.6025390625,
+                    397.42218017578125
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "truck",
+            "points": [
+                [
+                    577.5208129882812,
+                    334.25665283203125
+                ],
+                [
+                    623.2754516601562,
+                    397.58892822265625
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "traffic sign",
+            "points": [
+                [
+                    866.7852783203125,
+                    264.51763916015625
+                ],
+                [
+                    940.4168701171875,
+                    297.47808837890625
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "traffic sign",
+            "points": [
+                [
+                    670.6818181818182,
+                    329.31818181818187
+                ],
+                [
+                    695.6818181818182,
+                    356.5909090909091
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "Sequence_Day_2_frame_2460.jpg",
+    "imageData": null,
+    "imageHeight": 720,
+    "imageWidth": 1280
+}

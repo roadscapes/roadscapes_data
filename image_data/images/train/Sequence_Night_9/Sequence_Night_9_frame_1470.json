@@ -1,0 +1,118 @@
+{
+    "version": "5.6.0",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "truck",
+            "points": [
+                [
+                    339.59016393442624,
+                    378.44262295081967
+                ],
+                [
+                    390.40983606557376,
+                    422.70491803278685
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "bus",
+            "points": [
+                [
+                    591.2295081967213,
+                    290.73770491803276
+                ],
+                [
+                    845.327868852459,
+                    505.49180327868856
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "truck",
+            "points": [
+                [
+                    452.7049180327869,
+                    353.8524590163934
+                ],
+                [
+                    552.7049180327868,
+                    444.8360655737705
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "person",
+            "points": [
+                [
+                    10.081967213114716,
+                    408.7704918032787
+                ],
+                [
+                    56.80327868852455,
+                    532.5409836065575
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "person",
+            "points": [
+                [
+                    70.73770491803275,
+                    408.7704918032787
+                ],
+                [
+                    129.7540983606557,
+                    534.1803278688525
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "car",
+            "points": [
+                [
+                    371.55737704918033,
+                    404.672131147541
+                ],
+                [
+                    413.3606557377049,
+                    444.8360655737705
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "Sequence_Night_9_frame_1470.jpg",
+    "imageData": null,
+    "imageHeight": 720,
+    "imageWidth": 1280
+}

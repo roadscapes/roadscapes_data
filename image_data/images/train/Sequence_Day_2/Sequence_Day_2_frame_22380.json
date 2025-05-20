@@ -1,0 +1,100 @@
+{
+    "version": "5.5.0",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "truck",
+            "points": [
+                [
+                    724.0335693359375,
+                    383.77862548828125
+                ],
+                [
+                    814.1571044921875,
+                    496.94805908203125
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "truck",
+            "points": [
+                [
+                    206.36798095703125,
+                    478.947998046875
+                ],
+                [
+                    418.26495361328125,
+                    622.91259765625
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "car",
+            "points": [
+                [
+                    909.2628173828125,
+                    420.91229248046875
+                ],
+                [
+                    1002.3809814453125,
+                    490.6253662109375
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "car",
+            "points": [
+                [
+                    818.345703125,
+                    422.14111328125
+                ],
+                [
+                    911.03662109375,
+                    512.9686279296875
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "traffic sign",
+            "points": [
+                [
+                    352.50000000000006,
+                    322.5
+                ],
+                [
+                    441.1363636363637,
+                    395.22727272727275
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "Sequence_Day_2_frame_22380.jpg",
+    "imageData": null,
+    "imageHeight": 720,
+    "imageWidth": 1280
+}

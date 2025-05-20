@@ -1,0 +1,172 @@
+{
+    "version": "5.6.0",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "truck",
+            "points": [
+                [
+                    22.16571044921875,
+                    145.5875244140625
+                ],
+                [
+                    583.627197265625,
+                    597.0716552734375
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "rider",
+            "points": [
+                [
+                    854.4884033203125,
+                    369.223876953125
+                ],
+                [
+                    951.1024169921875,
+                    541.5411987304688
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "truck",
+            "points": [
+                [
+                    1076.594482421875,
+                    111.94720458984375
+                ],
+                [
+                    1280.0,
+                    623.3372192382812
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "motorcycle",
+            "points": [
+                [
+                    854.161376953125,
+                    431.0770568847656
+                ],
+                [
+                    953.2059326171875,
+                    587.0802001953125
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "motorcycle",
+            "points": [
+                [
+                    966.28759765625,
+                    429.7724609375
+                ],
+                [
+                    1034.75927734375,
+                    542.8516235351562
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "truck",
+            "points": [
+                [
+                    743.3702392578125,
+                    285.4716796875
+                ],
+                [
+                    982.3265380859375,
+                    503.9696044921875
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "car",
+            "points": [
+                [
+                    591.217041015625,
+                    404.2960205078125
+                ],
+                [
+                    633.650390625,
+                    432.64019775390625
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "rider",
+            "points": [
+                [
+                    961.8017578125,
+                    380.285400390625
+                ],
+                [
+                    1031.0863037109375,
+                    493.15673828125
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "traffic sign",
+            "points": [
+                [
+                    707.6724137931035,
+                    409.5689655172414
+                ],
+                [
+                    731.8103448275862,
+                    449.22413793103453
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "Sequence_Day_16_frame_18990.jpg",
+    "imageData": null,
+    "imageHeight": 720,
+    "imageWidth": 1280
+}

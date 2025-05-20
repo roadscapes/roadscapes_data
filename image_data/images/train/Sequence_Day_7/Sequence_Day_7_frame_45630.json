@@ -1,0 +1,100 @@
+{
+    "version": "5.4.1",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "rider",
+            "points": [
+                [
+                    370.62847900390625,
+                    341.4276428222656
+                ],
+                [
+                    428.48248291015625,
+                    452.4262390136719
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "motorcycle",
+            "points": [
+                [
+                    365.2742919921875,
+                    374.56329345703125
+                ],
+                [
+                    431.525390625,
+                    473.58282470703125
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "car",
+            "points": [
+                [
+                    897.515380859375,
+                    335.9261779785156
+                ],
+                [
+                    989.90673828125,
+                    370.8559265136719
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "car",
+            "points": [
+                [
+                    692.5128173828125,
+                    352.44464111328125
+                ],
+                [
+                    723.1563720703125,
+                    382.22711181640625
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "traffic sign",
+            "points": [
+                [
+                    888.1773681640625,
+                    210.13778686523438
+                ],
+                [
+                    928.588134765625,
+                    221.67355346679688
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "Sequence_Day_7_frame_45630.jpg",
+    "imageData": null,
+    "imageHeight": 720,
+    "imageWidth": 1280
+}

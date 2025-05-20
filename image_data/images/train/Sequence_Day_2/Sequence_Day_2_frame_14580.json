@@ -1,0 +1,82 @@
+{
+  "version": "5.4.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "truck",
+      "points": [
+        [
+          748.6871337890625,
+          183.3160400390625
+        ],
+        [
+          1184.98974609375,
+          550.9824829101562
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "bus",
+      "points": [
+        [
+          464.6090087890625,
+          360.21826171875
+        ],
+        [
+          541.0125732421875,
+          429.72265625
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "truck",
+      "points": [
+        [
+          576.1849365234375,
+          371.6025085449219
+        ],
+        [
+          615.9285888671875,
+          413.4047546386719
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "traffic sign",
+      "points": [
+        [
+          423.4185485839844,
+          364.77337646484375
+        ],
+        [
+          440.8339538574219,
+          383.4422607421875
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "Sequence_Day_2_frame_14580.jpg",
+  "imageData": null,
+  "imageHeight": 720,
+  "imageWidth": 1280
+}

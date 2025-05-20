@@ -1,0 +1,136 @@
+{
+    "version": "5.4.1",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "traffic light",
+            "points": [
+                [
+                    25.07621955871582,
+                    0.0
+                ],
+                [
+                    70.59304809570312,
+                    156.21926879882812
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "car",
+            "points": [
+                [
+                    262.80926513671875,
+                    277.8197021484375
+                ],
+                [
+                    728.9126586914062,
+                    607.8348388671875
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "rider",
+            "points": [
+                [
+                    7.948284149169922,
+                    318.53057861328125
+                ],
+                [
+                    45.31217575073242,
+                    377.42926025390625
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "car",
+            "points": [
+                [
+                    799.565673828125,
+                    228.87469482421875
+                ],
+                [
+                    1258.611328125,
+                    545.6535034179688
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "traffic sign",
+            "points": [
+                [
+                    453.06719970703125,
+                    208.97415161132812
+                ],
+                [
+                    510.12933349609375,
+                    237.09494018554688
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "person",
+            "points": [
+                [
+                    674.5255126953125,
+                    293.1653137207031
+                ],
+                [
+                    714.0384521484375,
+                    348.7724304199219
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "motorcycle",
+            "points": [
+                [
+                    0.10974502563476562,
+                    328.580078125
+                ],
+                [
+                    42.76509094238281,
+                    388.36279296875
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "Sequence_Day_7_frame_23400.jpg",
+    "imageData": null,
+    "imageHeight": 720,
+    "imageWidth": 1280
+}

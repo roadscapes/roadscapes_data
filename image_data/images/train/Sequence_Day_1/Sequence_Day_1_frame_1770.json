@@ -1,0 +1,154 @@
+{
+    "version": "5.6.0",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "truck",
+            "points": [
+                [
+                    804.26611328125,
+                    261.6526794433594
+                ],
+                [
+                    876.327880859375,
+                    356.7181701660156
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "motorcycle",
+            "points": [
+                [
+                    743.109375,
+                    330.548095703125
+                ],
+                [
+                    787.681396484375,
+                    391.3572998046875
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "rider",
+            "points": [
+                [
+                    743.73193359375,
+                    307.3669738769531
+                ],
+                [
+                    786.069580078125,
+                    377.5257873535156
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "rider",
+            "points": [
+                [
+                    783.4334716796875,
+                    308.56500244140625
+                ],
+                [
+                    810.1160888671875,
+                    362.06634521484375
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "motorcycle",
+            "points": [
+                [
+                    783.8804931640625,
+                    322.54022216796875
+                ],
+                [
+                    813.5662841796875,
+                    366.29986572265625
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "truck",
+            "points": [
+                [
+                    931.1676025390625,
+                    278.86358642578125
+                ],
+                [
+                    965.71728515625,
+                    304.36358642578125
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "truck",
+            "points": [
+                [
+                    1050.632911392405,
+                    0.5063291139240937
+                ],
+                [
+                    1218.987341772152,
+                    468.8607594936709
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "traffic sign",
+            "points": [
+                [
+                    954.4251626898048,
+                    295.87852494577004
+                ],
+                [
+                    964.403470715835,
+                    304.98915401301514
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "Sequence_Day_1_frame_1770.jpg",
+    "imageData": null,
+    "imageHeight": 720,
+    "imageWidth": 1280
+}

@@ -1,0 +1,154 @@
+{
+    "version": "5.6.0",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "motorcycle",
+            "points": [
+                [
+                    444.31964111328125,
+                    453.4811096191406
+                ],
+                [
+                    585.8054809570312,
+                    651.7117919921875
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "car",
+            "points": [
+                [
+                    721.0956420898438,
+                    395.00543212890625
+                ],
+                [
+                    986.2160034179688,
+                    615.0675659179688
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "car",
+            "points": [
+                [
+                    1116.572509765625,
+                    401.22235107421875
+                ],
+                [
+                    1279.3212890625,
+                    554.1182861328125
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "rider",
+            "points": [
+                [
+                    459.5839538574219,
+                    362.01513671875
+                ],
+                [
+                    574.994140625,
+                    577.86669921875
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "truck",
+            "points": [
+                [
+                    694.6591796875,
+                    364.08966064453125
+                ],
+                [
+                    761.52099609375,
+                    460.7005615234375
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "truck",
+            "points": [
+                [
+                    547.7586206896551,
+                    299.22413793103453
+                ],
+                [
+                    695.1724137931035,
+                    412.15517241379314
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "bus",
+            "points": [
+                [
+                    1105.5172413793105,
+                    365.6034482758621
+                ],
+                [
+                    1273.6206896551726,
+                    406.12068965517244
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "traffic sign",
+            "points": [
+                [
+                    1033.103448275862,
+                    346.6379310344828
+                ],
+                [
+                    1072.7586206896551,
+                    388.01724137931035
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "Sequence_Day_16_frame_28710.jpg",
+    "imageData": null,
+    "imageHeight": 720,
+    "imageWidth": 1280
+}

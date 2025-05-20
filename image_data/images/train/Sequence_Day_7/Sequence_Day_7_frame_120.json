@@ -1,0 +1,154 @@
+{
+    "version": "5.4.1",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "truck",
+            "points": [
+                [
+                    561.624267578125,
+                    218.96939086914062
+                ],
+                [
+                    673.895263671875,
+                    384.0436096191406
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "rider",
+            "points": [
+                [
+                    384.4449157714844,
+                    278.30169677734375
+                ],
+                [
+                    439.3171691894531,
+                    373.86907958984375
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "motorcycle",
+            "points": [
+                [
+                    380.09405517578125,
+                    310.03765869140625
+                ],
+                [
+                    439.63397216796875,
+                    397.77825927734375
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "car",
+            "points": [
+                [
+                    1048.890869140625,
+                    290.7284240722656
+                ],
+                [
+                    1096.131591796875,
+                    313.6995544433594
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "truck",
+            "points": [
+                [
+                    420.85772705078125,
+                    230.89208984375
+                ],
+                [
+                    550.6668090820312,
+                    356.0535888671875
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "traffic sign",
+            "points": [
+                [
+                    331.78515625,
+                    275.0046081542969
+                ],
+                [
+                    364.960693359375,
+                    298.7914733886719
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "traffic sign",
+            "points": [
+                [
+                    219.64645385742188,
+                    257.53826904296875
+                ],
+                [
+                    252.35186767578125,
+                    297.34576416015625
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "traffic light",
+            "points": [
+                [
+                    0.0,
+                    255.7479248046875
+                ],
+                [
+                    25.11297035217285,
+                    380.4554443359375
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "Sequence_Day_7_frame_120.jpg",
+    "imageData": null,
+    "imageHeight": 720,
+    "imageWidth": 1280
+}

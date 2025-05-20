@@ -1,0 +1,82 @@
+{
+    "version": "5.6.0",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "rickshaw",
+            "points": [
+                [
+                    541.75048828125,
+                    414.10186767578125
+                ],
+                [
+                    690.8753662109375,
+                    583.7940063476562
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "car",
+            "points": [
+                [
+                    638.9864501953125,
+                    434.1687316894531
+                ],
+                [
+                    907.6597900390625,
+                    642.4619140625
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "car",
+            "points": [
+                [
+                    870.3701171875,
+                    431.5895690917969
+                ],
+                [
+                    996.124267578125,
+                    547.9453125
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "truck",
+            "points": [
+                [
+                    832.4832763671875,
+                    385.7813720703125
+                ],
+                [
+                    911.9393310546875,
+                    461.56982421875
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "Sequence_Night_11_frame_19950.jpg",
+    "imageData": null,
+    "imageHeight": 720,
+    "imageWidth": 1280
+}

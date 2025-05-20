@@ -1,0 +1,82 @@
+{
+  "version": "5.4.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "traffic light",
+      "points": [
+        [
+          734.7596435546875,
+          199.0357666015625
+        ],
+        [
+          766.669189453125,
+          261.0178527832031
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "traffic light",
+      "points": [
+        [
+          157.8686065673828,
+          181.050537109375
+        ],
+        [
+          178.06883239746094,
+          247.12664794921875
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "truck",
+      "points": [
+        [
+          438.0166015625,
+          369.6395263671875
+        ],
+        [
+          495.07421875,
+          409.1507568359375
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "car",
+      "points": [
+        [
+          588.37109375,
+          382.5984191894531
+        ],
+        [
+          611.3690185546875,
+          401.8409118652344
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "Sequence_Day_2_frame_13290.jpg",
+  "imageData": null,
+  "imageHeight": 720,
+  "imageWidth": 1280
+}

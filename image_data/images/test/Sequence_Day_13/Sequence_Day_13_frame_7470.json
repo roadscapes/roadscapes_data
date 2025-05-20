@@ -1,0 +1,118 @@
+{
+    "version": "5.6.0",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "car",
+            "points": [
+                [
+                    911.2583007812499,
+                    342.35585021972656
+                ],
+                [
+                    1275.757568359375,
+                    561.3547210693359
+                ]
+            ],
+            "group_id": null,
+            "description": null,
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "car",
+            "points": [
+                [
+                    453.2763061523437,
+                    373.89898681640625
+                ],
+                [
+                    719.3696899414062,
+                    592.23046875
+                ]
+            ],
+            "group_id": null,
+            "description": null,
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "car",
+            "points": [
+                [
+                    701.9230769230769,
+                    386.53846153846155
+                ],
+                [
+                    791.1538461538461,
+                    453.46153846153845
+                ]
+            ],
+            "group_id": null,
+            "description": null,
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "truck",
+            "points": [
+                [
+                    605.3119506835938,
+                    349.6075134277344
+                ],
+                [
+                    675.8783569335938,
+                    386.7222595214844
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "truck",
+            "points": [
+                [
+                    696.331791804387,
+                    348.2969336876503
+                ],
+                [
+                    769.6153846153845,
+                    389.61538461538464
+                ]
+            ],
+            "group_id": null,
+            "description": null,
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "traffic sign",
+            "points": [
+                [
+                    498.84615384615387,
+                    337.3076923076923
+                ],
+                [
+                    518.076923076923,
+                    358.84615384615387
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "Sequence_Day_13_frame_7470.jpg",
+    "imageData": null,
+    "imageHeight": 720,
+    "imageWidth": 1280
+}

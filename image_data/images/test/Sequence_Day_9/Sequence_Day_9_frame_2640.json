@@ -1,0 +1,82 @@
+{
+    "version": "5.6.0",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "bicycle",
+            "points": [
+                [
+                    1128.7596899224807,
+                    348.37209302325584
+                ],
+                [
+                    1179.1472868217054,
+                    409.6124031007752
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "person",
+            "points": [
+                [
+                    1141.1627906976744,
+                    301.8604651162791
+                ],
+                [
+                    1176.8217054263566,
+                    356.8992248062016
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "truck",
+            "points": [
+                [
+                    799.3023255813954,
+                    317.36434108527135
+                ],
+                [
+                    839.6124031007753,
+                    349.92248062015506
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "rickshaw",
+            "points": [
+                [
+                    721.1382113821138,
+                    302.11382113821105
+                ],
+                [
+                    795.6910569105692,
+                    388.8617886178862
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "Sequence_Day_9_frame_2640.jpg",
+    "imageData": null,
+    "imageHeight": 720,
+    "imageWidth": 1280
+}

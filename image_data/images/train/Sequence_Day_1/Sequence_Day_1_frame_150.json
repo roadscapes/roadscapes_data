@@ -1,0 +1,72 @@
+{
+    "version": "5.4.1",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "truck",
+            "points": [
+                [
+                    0.5723876953125,
+                    23.592193603515625
+                ],
+                [
+                    411.6522216796875,
+                    397.5494689941406
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "bus",
+            "points": [
+                [
+                    448.88037109375,
+                    212.02159118652344
+                ],
+                [
+                    524.4061889648438,
+                    279.7491455078125
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "traffic sign",
+            "points": [
+                [
+                    971.2500000000001,
+                    133.33333333333334
+                ],
+                [
+                    918.7500000000001,
+                    135.83333333333334
+                ],
+                [
+                    919.5833333333334,
+                    85.83333333333334
+                ],
+                [
+                    964.5833333333334,
+                    87.50000000000001
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "polygon",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "Sequence_Day_1_frame_150.jpg",
+    "imageData": null,
+    "imageHeight": 720,
+    "imageWidth": 1280
+}

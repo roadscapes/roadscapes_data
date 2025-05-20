@@ -1,0 +1,154 @@
+{
+    "version": "5.6.0",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "car",
+            "points": [
+                [
+                    287.18002319335943,
+                    395.00933837890625
+                ],
+                [
+                    452.9149475097657,
+                    503.7237548828125
+                ]
+            ],
+            "group_id": null,
+            "description": null,
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "rickshaw",
+            "points": [
+                [
+                    386.3585815429689,
+                    363.8302518404447
+                ],
+                [
+                    678.076923076923,
+                    559.6153846153846
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "car",
+            "points": [
+                [
+                    562.5301889272837,
+                    389.5805358886719
+                ],
+                [
+                    653.4615384615383,
+                    465.7692307692308
+                ]
+            ],
+            "group_id": null,
+            "description": null,
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "bus",
+            "points": [
+                [
+                    845.0463256835938,
+                    350.6140441894532
+                ],
+                [
+                    930.4724731445312,
+                    429.5561828613282
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "person",
+            "points": [
+                [
+                    33.46153846153846,
+                    404.2307692307692
+                ],
+                [
+                    81.15384615384615,
+                    508.8461538461538
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "bus",
+            "points": [
+                [
+                    510.3846153846154,
+                    338.0769230769231
+                ],
+                [
+                    726.5384615384614,
+                    460.3846153846154
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "traffic sign",
+            "points": [
+                [
+                    796.5384615384614,
+                    345.0
+                ],
+                [
+                    829.6153846153845,
+                    378.84615384615387
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "headlight",
+            "points": [
+                [
+                    1061.923076923077,
+                    368.84615384615387
+                ],
+                [
+                    1110.3846153846155,
+                    404.2307692307692
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "Sequence_Night_17_frame_4290.jpg",
+    "imageData": null,
+    "imageHeight": 720,
+    "imageWidth": 1280
+}

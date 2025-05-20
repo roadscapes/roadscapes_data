@@ -1,0 +1,154 @@
+{
+    "version": "5.6.0",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "traffic light",
+            "points": [
+                [
+                    843.2467041015625,
+                    231.80020141601562
+                ],
+                [
+                    891.740966796875,
+                    268.2676696777344
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "car",
+            "points": [
+                [
+                    596.4935064935065,
+                    361.29870129870125
+                ],
+                [
+                    652.3376623376623,
+                    423.63636363636357
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "car",
+            "points": [
+                [
+                    477.012987012987,
+                    350.90909090909093
+                ],
+                [
+                    544.5454545454545,
+                    417.14285714285717
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "car",
+            "points": [
+                [
+                    105.5844155844156,
+                    335.3246753246753
+                ],
+                [
+                    223.7662337662338,
+                    408.05194805194805
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "car",
+            "points": [
+                [
+                    1.6883116883117033,
+                    339.2207792207792
+                ],
+                [
+                    79.61038961038962,
+                    421.0389610389611
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "truck",
+            "points": [
+                [
+                    356.23376623376623,
+                    327.5324675324675
+                ],
+                [
+                    445.84415584415586,
+                    422.33766233766227
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "truck",
+            "points": [
+                [
+                    384.80519480519484,
+                    284.6753246753247
+                ],
+                [
+                    508.1818181818182,
+                    384.6753246753247
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "motorcycle",
+            "points": [
+                [
+                    305.5844155844156,
+                    365.19480519480516
+                ],
+                [
+                    347.14285714285717,
+                    401.55844155844153
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "Sequence_Day_14_frame_2520.jpg",
+    "imageData": null,
+    "imageHeight": 720,
+    "imageWidth": 1280
+}

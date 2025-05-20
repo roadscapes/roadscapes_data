@@ -1,0 +1,100 @@
+{
+    "version": "5.6.0",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "truck",
+            "points": [
+                [
+                    987.6744186046512,
+                    301.0852713178295
+                ],
+                [
+                    1040.387596899225,
+                    355.34883720930236
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "bicycle",
+            "points": [
+                [
+                    1055.1162790697674,
+                    330.5426356589148
+                ],
+                [
+                    1072.9457364341085,
+                    354.57364341085275
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "person",
+            "points": [
+                [
+                    1053.5658914728683,
+                    316.58914728682174
+                ],
+                [
+                    1072.1705426356589,
+                    333.6434108527132
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "car",
+            "points": [
+                [
+                    779.3548387096774,
+                    327.09677419354836
+                ],
+                [
+                    805.1612903225806,
+                    344.51612903225805
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "rickshaw",
+            "points": [
+                [
+                    858.5365853658536,
+                    293.1707317073167
+                ],
+                [
+                    963.9837398373984,
+                    414.06504065040656
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "Sequence_Day_9_frame_2550.jpg",
+    "imageData": null,
+    "imageHeight": 720,
+    "imageWidth": 1280
+}

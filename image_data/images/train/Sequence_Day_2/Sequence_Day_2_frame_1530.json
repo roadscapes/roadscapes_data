@@ -1,0 +1,136 @@
+{
+    "version": "5.5.0",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "car",
+            "points": [
+                [
+                    22.88812255859375,
+                    388.759521484375
+                ],
+                [
+                    383.072509765625,
+                    613.7342529296875
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "truck",
+            "points": [
+                [
+                    588.1292724609375,
+                    362.927978515625
+                ],
+                [
+                    629.70556640625,
+                    415.26123046875
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "car",
+            "points": [
+                [
+                    548.134765625,
+                    395.8644104003906
+                ],
+                [
+                    572.256103515625,
+                    416.1806335449219
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "traffic sign",
+            "points": [
+                [
+                    734.186046511628,
+                    316.58914728682174
+                ],
+                [
+                    770.6201550387598,
+                    356.8992248062016
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "rickshaw",
+            "points": [
+                [
+                    378.3720930232558,
+                    389.4573643410853
+                ],
+                [
+                    414.8062015503876,
+                    437.5193798449613
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "person",
+            "points": [
+                [
+                    496.9767441860465,
+                    395.6589147286822
+                ],
+                [
+                    513.2558139534884,
+                    428.2170542635659
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "traffic sign",
+            "points": [
+                [
+                    459.31818181818187,
+                    265.68181818181813
+                ],
+                [
+                    684.3181818181819,
+                    311.1363636363636
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "Sequence_Day_2_frame_1530.jpg",
+    "imageData": null,
+    "imageHeight": 720,
+    "imageWidth": 1280
+}

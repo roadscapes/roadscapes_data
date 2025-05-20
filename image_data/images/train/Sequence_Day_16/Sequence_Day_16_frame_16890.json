@@ -1,0 +1,172 @@
+{
+    "version": "5.6.0",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "bus",
+            "points": [
+                [
+                    121.00083923339844,
+                    261.10919189453125
+                ],
+                [
+                    391.4173583984375,
+                    594.8639526367188
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "traffic light",
+            "points": [
+                [
+                    936.5069580078125,
+                    274.67657470703125
+                ],
+                [
+                    961.7913818359375,
+                    355.44775390625
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "car",
+            "points": [
+                [
+                    377.64654541015625,
+                    452.78778076171875
+                ],
+                [
+                    429.56646728515625,
+                    533.6415405273438
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "rider",
+            "points": [
+                [
+                    436.02996826171875,
+                    424.950439453125
+                ],
+                [
+                    524.8799438476562,
+                    601.0076904296875
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "motorcycle",
+            "points": [
+                [
+                    440.70269775390625,
+                    482.1820373535156
+                ],
+                [
+                    527.5398559570312,
+                    637.8404541015625
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "car",
+            "points": [
+                [
+                    1035.474853515625,
+                    461.9251708984375
+                ],
+                [
+                    1279.954345703125,
+                    602.3681640625
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "car",
+            "points": [
+                [
+                    0.02362060546875,
+                    450.2270202636719
+                ],
+                [
+                    39.37769317626953,
+                    485.8276672363281
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "person",
+            "points": [
+                [
+                    292.9666748046875,
+                    425.91070556640625
+                ],
+                [
+                    341.0042724609375,
+                    501.6204833984375
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "bus",
+            "points": [
+                [
+                    978.3620689655173,
+                    406.12068965517244
+                ],
+                [
+                    1279.0,
+                    545.7331761469693
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "Sequence_Day_16_frame_16890.jpg",
+    "imageData": null,
+    "imageHeight": 720,
+    "imageWidth": 1280
+}

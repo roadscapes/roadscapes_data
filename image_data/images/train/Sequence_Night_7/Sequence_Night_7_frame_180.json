@@ -1,0 +1,64 @@
+{
+    "version": "5.6.0",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "car",
+            "points": [
+                [
+                    763.7420654296875,
+                    376.7825927734375
+                ],
+                [
+                    797.9989013671875,
+                    410.9114990234375
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "animal",
+            "points": [
+                [
+                    500.88067626953125,
+                    490.3568115234375
+                ],
+                [
+                    610.2592163085938,
+                    593.9962158203125
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "person",
+            "points": [
+                [
+                    935.8677685950413,
+                    361.2396694214876
+                ],
+                [
+                    965.6198347107438,
+                    426.5289256198347
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "Sequence_Night_7_frame_180.jpg",
+    "imageData": null,
+    "imageHeight": 720,
+    "imageWidth": 1280
+}

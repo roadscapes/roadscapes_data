@@ -1,0 +1,64 @@
+{
+    "version": "5.6.0",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "animal",
+            "points": [
+                [
+                    722.6446280991736,
+                    410.8264462809917
+                ],
+                [
+                    754.8760330578513,
+                    441.40495867768595
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "truck",
+            "points": [
+                [
+                    787.1074380165289,
+                    372.80991735537185
+                ],
+                [
+                    808.595041322314,
+                    404.2148760330578
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "car",
+            "points": [
+                [
+                    814.3801652892562,
+                    371.98347107438013
+                ],
+                [
+                    841.6528925619834,
+                    409.1735537190082
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "Sequence_Night_7_frame_30.jpg",
+    "imageData": null,
+    "imageHeight": 720,
+    "imageWidth": 1280
+}

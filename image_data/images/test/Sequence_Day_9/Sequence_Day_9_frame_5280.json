@@ -1,0 +1,82 @@
+{
+    "version": "5.4.1",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "car",
+            "points": [
+                [
+                    912.854248046875,
+                    291.6040954589844
+                ],
+                [
+                    999.41259765625,
+                    362.1033630371094
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "truck",
+            "points": [
+                [
+                    797.7519379844962,
+                    272.4031007751938
+                ],
+                [
+                    846.5891472868217,
+                    341.3953488372093
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "bicycle",
+            "points": [
+                [
+                    1176.8217054263566,
+                    328.9922480620155
+                ],
+                [
+                    1217.906976744186,
+                    411.16279069767444
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "rider",
+            "points": [
+                [
+                    1196.2015503875969,
+                    283.2558139534884
+                ],
+                [
+                    1242.7131782945737,
+                    414.2635658914729
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "Sequence_Day_9_frame_5280.jpg",
+    "imageData": null,
+    "imageHeight": 720,
+    "imageWidth": 1280
+}

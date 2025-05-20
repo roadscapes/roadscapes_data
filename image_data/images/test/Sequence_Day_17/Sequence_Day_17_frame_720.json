@@ -1,0 +1,136 @@
+{
+    "version": "5.6.0",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "person",
+            "points": [
+                [
+                    242.63644409179688,
+                    459.22651672363276
+                ],
+                [
+                    301.6344299316406,
+                    623.9891815185547
+                ]
+            ],
+            "group_id": null,
+            "description": null,
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "car",
+            "points": [
+                [
+                    549.5652465820312,
+                    450.46630859375
+                ],
+                [
+                    612.3888549804688,
+                    512.2186889648438
+                ]
+            ],
+            "group_id": null,
+            "description": null,
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "person",
+            "points": [
+                [
+                    1063.8125,
+                    422.39527893066406
+                ],
+                [
+                    1112.046142578125,
+                    561.382553100586
+                ]
+            ],
+            "group_id": null,
+            "description": null,
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "car",
+            "points": [
+                [
+                    733.4299316406249,
+                    447.22937011718744
+                ],
+                [
+                    797.407958984375,
+                    493.9288330078125
+                ]
+            ],
+            "group_id": null,
+            "description": null,
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "motorcycle",
+            "points": [
+                [
+                    831.3173217773436,
+                    464.6624755859375
+                ],
+                [
+                    868.8674926757812,
+                    502.79180908203125
+                ]
+            ],
+            "group_id": null,
+            "description": null,
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "person",
+            "points": [
+                [
+                    1227.3076923076924,
+                    378.84615384615387
+                ],
+                [
+                    1279.0,
+                    581.1204013377924
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "motorcycle",
+            "points": [
+                [
+                    1188.076923076923,
+                    509.61538461538464
+                ],
+                [
+                    1278.8461538461538,
+                    663.4615384615385
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "Sequence_Day_17_frame_720.jpg",
+    "imageData": null,
+    "imageHeight": 720,
+    "imageWidth": 1280
+}

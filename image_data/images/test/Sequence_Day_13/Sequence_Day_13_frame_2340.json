@@ -1,0 +1,316 @@
+{
+    "version": "5.6.0",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "car",
+            "points": [
+                [
+                    218.37145996093753,
+                    305.26171875
+                ],
+                [
+                    539.67529296875,
+                    579.8323364257812
+                ]
+            ],
+            "group_id": null,
+            "description": null,
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "rider",
+            "points": [
+                [
+                    530.0116577148438,
+                    298.0211334228516
+                ],
+                [
+                    701.5568237304688,
+                    538.4467620849609
+                ]
+            ],
+            "group_id": null,
+            "description": null,
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "rider",
+            "points": [
+                [
+                    801.3825073242186,
+                    292.4788970947266
+                ],
+                [
+                    923.1709594726562,
+                    532.3624114990234
+                ]
+            ],
+            "group_id": null,
+            "description": null,
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "motorcycle",
+            "points": [
+                [
+                    799.8680419921875,
+                    411.05639648437494
+                ],
+                [
+                    933.3448486328125,
+                    610.5137939453125
+                ]
+            ],
+            "group_id": null,
+            "description": null,
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "rider",
+            "points": [
+                [
+                    961.6458740234374,
+                    265.7149047851562
+                ],
+                [
+                    1254.5411376953125,
+                    675.4263305664062
+                ]
+            ],
+            "group_id": null,
+            "description": null,
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "person",
+            "points": [
+                [
+                    41.06701660156251,
+                    269.35133361816406
+                ],
+                [
+                    255.4688720703125,
+                    665.4008636474609
+                ]
+            ],
+            "group_id": null,
+            "description": null,
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "car",
+            "points": [
+                [
+                    655.8707275390624,
+                    327.60874938964844
+                ],
+                [
+                    816.2510986328125,
+                    519.9841461181641
+                ]
+            ],
+            "group_id": null,
+            "description": null,
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "person",
+            "points": [
+                [
+                    0.5192108154296893,
+                    394.27894592285156
+                ],
+                [
+                    117.7623291015625,
+                    687.4589691162109
+                ]
+            ],
+            "group_id": null,
+            "description": null,
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "motorcycle",
+            "points": [
+                [
+                    559.0654907226562,
+                    426.84547424316406
+                ],
+                [
+                    684.8506469726562,
+                    591.5414886474609
+                ]
+            ],
+            "group_id": null,
+            "description": null,
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "traffic light",
+            "points": [
+                [
+                    153.5058135986328,
+                    245.25427246093753
+                ],
+                [
+                    172.23661804199222,
+                    284.9669189453125
+                ]
+            ],
+            "group_id": null,
+            "description": null,
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "car",
+            "points": [
+                [
+                    0.0,
+                    315.1468200683594
+                ],
+                [
+                    90.234375,
+                    447.5939636230469
+                ]
+            ],
+            "group_id": null,
+            "description": null,
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "motorcycle",
+            "points": [
+                [
+                    951.774200439453,
+                    430.4883422851563
+                ],
+                [
+                    1268.9501647949219,
+                    668.1677856445312
+                ]
+            ],
+            "group_id": null,
+            "description": null,
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "traffic sign",
+            "points": [
+                [
+                    794.2307692307692,
+                    204.23076923076923
+                ],
+                [
+                    849.6153846153845,
+                    249.6153846153846
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "traffic light",
+            "points": [
+                [
+                    771.9230769230769,
+                    177.3076923076923
+                ],
+                [
+                    800.3846153846154,
+                    269.61538461538464
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "traffic light",
+            "points": [
+                [
+                    816.5384615384614,
+                    68.84615384615384
+                ],
+                [
+                    919.6153846153845,
+                    93.46153846153845
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "traffic light",
+            "points": [
+                [
+                    648.076923076923,
+                    235.76923076923075
+                ],
+                [
+                    700.3846153846154,
+                    248.84615384615384
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "traffic light",
+            "points": [
+                [
+                    134.23076923076923,
+                    167.3076923076923
+                ],
+                [
+                    181.92307692307693,
+                    191.15384615384613
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "Sequence_Day_13_frame_2340.jpg",
+    "imageData": null,
+    "imageHeight": 720,
+    "imageWidth": 1280
+}

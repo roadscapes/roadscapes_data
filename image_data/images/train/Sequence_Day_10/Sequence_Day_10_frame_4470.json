@@ -1,0 +1,54 @@
+{
+    "version": "5.6.0",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "car",
+            "points": [
+                [
+                    876.8656005859375,
+                    372.8858642578125
+                ],
+                [
+                    1028.426513671875,
+                    485.2548828125
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "motorcycle",
+            "points": [
+                [
+                    770.8943089430895,
+                    392.92682926829275
+                ],
+                [
+                    780.6504065040651,
+                    395.3658536585366
+                ],
+                [
+                    780.6504065040651,
+                    422.19512195121956
+                ],
+                [
+                    769.2682926829269,
+                    419.7560975609756
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "polygon",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "Sequence_Day_10_frame_4470.jpg",
+    "imageData": null,
+    "imageHeight": 720,
+    "imageWidth": 1280
+}

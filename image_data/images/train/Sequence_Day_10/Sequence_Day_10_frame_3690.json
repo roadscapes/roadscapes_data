@@ -1,0 +1,72 @@
+{
+    "version": "5.6.0",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "car",
+            "points": [
+                [
+                    637.477294921875,
+                    399.4471740722656
+                ],
+                [
+                    937.18359375,
+                    611.4132080078125
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "truck",
+            "points": [
+                [
+                    947.32470703125,
+                    344.88311767578125
+                ],
+                [
+                    1050.671142578125,
+                    472.39080810546875
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "traffic sign",
+            "points": [
+                [
+                    712.0472440944882,
+                    350.1574803149606
+                ],
+                [
+                    741.1811023622047,
+                    352.51968503937
+                ],
+                [
+                    741.1811023622047,
+                    385.59055118110234
+                ],
+                [
+                    713.6220472440945,
+                    384.8031496062992
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "polygon",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "Sequence_Day_10_frame_3690.jpg",
+    "imageData": null,
+    "imageHeight": 720,
+    "imageWidth": 1280
+}

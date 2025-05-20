@@ -1,0 +1,58 @@
+{
+    "version": "4.5.7",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "car",
+            "points": [
+                [
+                    1.1826477050781037,
+                    351.184326171875
+                ],
+                [
+                    368.2558898925781,
+                    650.2650146484375
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "person",
+            "points": [
+                [
+                    919.8297119140625,
+                    388.5327758789062
+                ],
+                [
+                    989.4547119140625,
+                    576.6787109375
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "motorcycle",
+            "points": [
+                [
+                    318.09552001953125,
+                    398.01246643066406
+                ],
+                [
+                    416.36566162109375,
+                    507.0019378662109
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        }
+    ],
+    "imagePath": "Sequence_Day_18_frame_3150.jpg",
+    "imageData": null,
+    "imageHeight": 720,
+    "imageWidth": 1280
+}

@@ -1,0 +1,64 @@
+{
+    "version": "5.6.0",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "headlight",
+            "points": [
+                [
+                    754.1304347826086,
+                    253.1159420289855
+                ],
+                [
+                    788.9130434782609,
+                    289.34782608695656
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "truck",
+            "points": [
+                [
+                    838.9130434782609,
+                    193.69565217391306
+                ],
+                [
+                    965.7246376811594,
+                    302.3913043478261
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "traffic sign",
+            "points": [
+                [
+                    285.2898550724638,
+                    233.55072463768118
+                ],
+                [
+                    320.7971014492754,
+                    263.26086956521743
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "Sequence_Night_4_frame_19230.jpg",
+    "imageData": null,
+    "imageHeight": 720,
+    "imageWidth": 1280
+}

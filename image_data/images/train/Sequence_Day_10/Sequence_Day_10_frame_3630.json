@@ -1,0 +1,90 @@
+{
+    "version": "5.6.0",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "truck",
+            "points": [
+                [
+                    889.7666015625,
+                    346.2596435546875
+                ],
+                [
+                    1001.123291015625,
+                    477.326416015625
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "car",
+            "points": [
+                [
+                    488.94287109375,
+                    395.8587646484375
+                ],
+                [
+                    813.3494873046875,
+                    614.531005859375
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "car",
+            "points": [
+                [
+                    1083.1009521484375,
+                    419.8997802734375
+                ],
+                [
+                    1125.5765380859375,
+                    462.330078125
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "traffic sign",
+            "points": [
+                [
+                    393.9370078740157,
+                    303.70078740157476
+                ],
+                [
+                    435.66929133858264,
+                    306.06299212598424
+                ],
+                [
+                    435.66929133858264,
+                    367.48031496062987
+                ],
+                [
+                    390.7874015748031,
+                    361.1811023622047
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "polygon",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "Sequence_Day_10_frame_3630.jpg",
+    "imageData": null,
+    "imageHeight": 720,
+    "imageWidth": 1280
+}

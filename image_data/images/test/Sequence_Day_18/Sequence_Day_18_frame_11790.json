@@ -1,0 +1,90 @@
+{
+    "version": "4.5.7",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "car",
+            "points": [
+                [
+                    981.7124023437499,
+                    350.7838134765625
+                ],
+                [
+                    1278.677490234375,
+                    696.86962890625
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "truck",
+            "points": [
+                [
+                    659.4000244140625,
+                    318.45220947265625
+                ],
+                [
+                    800.3555908203125,
+                    453.8270263671875
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "rider",
+            "points": [
+                [
+                    539.879150390625,
+                    382.2515258789063
+                ],
+                [
+                    623.321533203125,
+                    520.5308837890625
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "motorcycle",
+            "points": [
+                [
+                    540.3460083007812,
+                    452.20130920410156
+                ],
+                [
+                    614.5549926757812,
+                    543.5766448974608
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "person",
+            "points": [
+                [
+                    507.55517578125,
+                    393.3929443359375
+                ],
+                [
+                    532.7493896484375,
+                    464.60412597656256
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        }
+    ],
+    "imagePath": "Sequence_Day_18_frame_11790.jpg",
+    "imageData": null,
+    "imageHeight": 720,
+    "imageWidth": 1280
+}

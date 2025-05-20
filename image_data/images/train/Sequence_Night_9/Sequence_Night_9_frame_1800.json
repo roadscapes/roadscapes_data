@@ -1,0 +1,154 @@
+{
+    "version": "5.6.0",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "car",
+            "points": [
+                [
+                    2.704918032786848,
+                    439.0983606557377
+                ],
+                [
+                    37.13114754098357,
+                    499.75409836065575
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "motorcycle",
+            "points": [
+                [
+                    206.80327868852456,
+                    451.39344262295083
+                ],
+                [
+                    252.70491803278688,
+                    494.83606557377044
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "motorcycle",
+            "points": [
+                [
+                    278.9344262295082,
+                    446.4754098360656
+                ],
+                [
+                    333.8524590163934,
+                    501.3934426229508
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "truck",
+            "points": [
+                [
+                    314.18032786885243,
+                    272.70491803278685
+                ],
+                [
+                    583.0327868852459,
+                    529.2622950819673
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "car",
+            "points": [
+                [
+                    678.1147540983607,
+                    389.0983606557377
+                ],
+                [
+                    904.344262295082,
+                    545.6557377049181
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "motorcycle",
+            "points": [
+                [
+                    951.0655737704918,
+                    467.7868852459016
+                ],
+                [
+                    1117.4590163934427,
+                    596.4754098360656
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "truck",
+            "points": [
+                [
+                    1043.688524590164,
+                    355.4918032786885
+                ],
+                [
+                    1275.655737704918,
+                    581.7213114754098
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "bus",
+            "points": [
+                [
+                    576.4754098360655,
+                    360.40983606557376
+                ],
+                [
+                    653.5245901639345,
+                    437.4590163934426
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "Sequence_Night_9_frame_1800.jpg",
+    "imageData": null,
+    "imageHeight": 720,
+    "imageWidth": 1280
+}
