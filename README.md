@@ -4,5 +4,6 @@
    pip install tqdm
    ```
 2. Run the generate_image_vqa.py for the generation pipeline
-3. In order to run experiments use the notebook "Experiments_4o,4o_mini,paligemma,phi35.ipynb". 
+4. In order to run experiments use the notebook "Experiments.ipynb".
+5. Data has been anonymized using the supporting code in directory "Data Preparation and Anonymization"
    
